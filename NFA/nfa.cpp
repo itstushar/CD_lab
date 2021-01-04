@@ -7,8 +7,6 @@ int main()
 {
     char s[10];
     int n, init = 0, fin = 1;
-    cout<<"Name: Yogesh Gaur"<<endl;
-    cout<<"Roll No: 1816110248"<<endl;
     cout << "Enter Regular Expression\n";
     gets(s);
     n = strlen(s);
