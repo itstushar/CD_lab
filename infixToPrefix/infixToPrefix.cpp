@@ -37,7 +37,6 @@ int precede(char c)
 
 int main()
 {
-    printf("Name: Yogesh Gaur \nRoll No: 1816110248 \n");
     char prefix[10];
     int l, i = 0, j = 0;
     char s, temp;
