@@ -19,7 +19,6 @@ int e;
 
 int main(int argc, char **argv)
 {
-    printf("Name: Yogesh Gaur \nRoll No: 1816110248 \n");
     int jm = 0;
     int km = 0;
     int i, choice;
