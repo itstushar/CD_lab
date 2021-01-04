@@ -14,8 +14,6 @@ int getPosition(string arr[], string q, int size)
 }
 int main()
 {
-    cout << "Name : Yogesh Gaur" << endl;
-    cout << "Roll No : 1816110248" << endl;
     string prods[10], leads[10], trails[10], nonterms[10], terms[10];
     char op_table[20][20] = {};
     cout << "Enter the number of productions : ";
