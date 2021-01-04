@@ -4,7 +4,6 @@ int main()
 {
     char i, str[50];
     int opr = 0, var = 0, con = 0;
-    printf("Name: Yogesh Gaur \nRoll No: 1816110248 \n");
     printf("Enter expression:");
     scanf(" %s", str);
     char *ptr = str;
