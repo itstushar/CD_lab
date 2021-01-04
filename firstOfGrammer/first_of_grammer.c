@@ -80,7 +80,6 @@ void findfol()
 
 int main()
 {
-    printf("Name : Yogesh Gaur \nRoll No : 1816110248\n");
     FILE *f;
     for (i = 0; i < 10; i++)
         pro[i].n = 0;
