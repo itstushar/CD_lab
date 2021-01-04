@@ -5,8 +5,6 @@
 using namespace std;
 int main()
 {
-  cout << "Name : Yogesh Gaur" << endl;
-  cout << "Roll No : 1816110248" << endl;
   char string[20];
   int state = 0, count = 0;
   cout << "the grammar is: S->aS, S->Sb, S->ab \n";
