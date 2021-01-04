@@ -415,8 +415,6 @@ void print_reduce_table(int state_count, int *no_re, struct state *temp1)
 
 int main()
 {
-    cout<<"Name: Yogesh Gaur"<<endl;
-    cout<<"Roll No: 1816110248"<<endl;
     struct state init;
     struct state temp;
     struct state temp1;
