@@ -12,8 +12,6 @@ bool IsOperand(char C);
 
 int main()
 {
-	cout << "Name : Yogesh Gaur" << endl;
-	cout << "Roll No : 1816110248" << endl;
 	string expression;
 	cout << "Enter Infix Expression \n";
 	getline(cin, expression);
